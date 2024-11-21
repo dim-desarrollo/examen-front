@@ -1,0 +1,46 @@
+[
+    {
+        "Opcion1": "ver",
+        "Opcion2": "impresion",
+        "Numero": "107993/2024",
+        "Tipo": "CERTIFICADO DE CUMPLIMIENTO FISCAL",
+        "Nro_Expediente": "41666/1376/2024/TW",
+        "Fecha_Generacion": "24/10/2024",
+        "Fecha_Presentacion": "24/10/2024",
+        "Fecha_Fin": "",
+        "Estado": "EN CURSO"
+    },
+    {
+        "Opcion1": "ver",
+        "Opcion2": "impresion",
+        "Numero": "27719/2024",
+        "Tipo": "CERTIFICADO DE CUMPLIMIENTO FISCAL",
+        "Nro_Expediente": "12076/1376/2024/TW",
+        "Fecha_Generacion": "20/03/2024",
+        "Fecha_Presentacion": "21/03/2024",
+        "Fecha_Fin": "08/05/2024",
+        "Estado": "Finalizado"
+    },
+    {
+        "Opcion1": "ver",
+        "Opcion2": "impresion",
+        "Numero": "107993/2024",
+        "Tipo": "CERTIFICADO DE CUMPLIMIENTO FISCAL",
+        "Nro_Expediente": "41666/1376/2024/TW",
+        "Fecha_Generacion": "24/10/2024",
+        "Fecha_Presentacion": "24/10/2024",
+        "Fecha_Fin": "",
+        "Estado": "EN CURSO"
+    },
+    {
+        "Opcion1": "ver",
+        "Opcion2": "impresion",
+        "Numero": "27719/2024",
+        "Tipo": "CERTIFICADO DE CUMPLIMIENTO FISCAL",
+        "Nro_Expediente": "12076/1376/2024/TW",
+        "Fecha_Generacion": "20/03/2024",
+        "Fecha_Presentacion": "21/03/2024",
+        "Fecha_Fin": "08/05/2024",
+        "Estado": "Finalizado"
+    }
+]
